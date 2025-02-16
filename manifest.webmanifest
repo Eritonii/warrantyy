@@ -1,0 +1,1 @@
+{"name":"PWA Aplikacioni Yt","short_name":"PWA","start_url":"/warrantyy/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/warrantyy/","description":"Një aplikacion Vue.js progresiv","theme_color":"#ffffff","icons":[{"src":"/icons/pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/icons/pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
